@@ -32,5 +32,5 @@ It should spit out something like this:
 ```
 Congratulations! You've just written your first program with URAPY! If you get something like `ModuleNotFoundError: No module name 'URAPY'`, try reinstalling URAPY (`pip install URAPY`).
 
-Refer to official docs: **COMING SOON**
+Refer to official docs: **COMING SOON** |
 Visit Uptime Robot! https://uptimerobot.com/
