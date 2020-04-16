@@ -18,6 +18,7 @@ Now scroll down until you see the header called *Main API Key*. Click the text t
 You should now see something like this:
 ![image](https://storage.googleapis.com/replit/images/1586991754336_c55a1df9a6e5152afde96c6b67ed684c.png)
 (Btw I'm not giving you my API key because then you'll hack me TwT)
+Click copy to clipboard, and move on to the next step!
 
 #### Back to the Coding!
 Type the following into your IDE.
