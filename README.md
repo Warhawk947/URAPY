@@ -1,4 +1,4 @@
-# Introducing URAPY
+# Introducing URAPY (Or Uptime Robot API Rewrite)
 ## What is URAPY?
 
 URAPY stands for **U**ptime **R**obot **API**, but I wanted it to be more cheesy so I switched it to **APY** (Get it? API? APY? Ok...)
@@ -7,6 +7,10 @@ URAPY is a basic API wrapper for [Uptime Robot](https://uptimerobot.com/), allow
 
 ## How do I use URAPY?
 To install the package, simply type `pip install URAPY`, and you're good!
+
+### Special Note For [Repl.it Users](https://repl.it)
+To install URAPY on repl.it, simply install URAPY as you would with any other package!
+
 
 #### Getting your Uptime Robot API key
 Now, before you write any code, you need to get your *Uptime Robot API key* *(If you already have one, copy it to your clipboard and skip this part.)*. To get it, all you need to go is go to [your settings](https://uptimerobot.com/dashboard.php#mySettings). You should see something like this:
